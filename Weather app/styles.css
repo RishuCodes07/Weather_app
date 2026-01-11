@@ -38,10 +38,10 @@ h1 {
 input[type="text"] {
     width: 70%;
     padding: 10px;
-    background-color: #333333;
+    background-color: #262626;
     border: none;
     border-radius: 5px;
-    color: #FFF;
+    color: #f2f2f2;
     outline: none;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
@@ -50,10 +50,10 @@ input[type="text"] {
 button {
     width: 25%;
     padding: 10px;
-    background-color: #4f06b5;
+    background-color: #5201c2;
     border: none;
     border-radius: 5px;
-    color: #FFF;
+    color: #ececec;
     cursor: pointer;
     transition: background-color 0.3s;
     font-family: 'Courier New', Courier, monospace;
